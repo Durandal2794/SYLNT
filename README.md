@@ -10,5 +10,5 @@ python <path_to_SYLNT.py> <path_to_DS_test_merchant.csv>
 
 It will print some status text to the screen; when it’s done it will print the answers to the 2 questions.
 
-**NOTE:**  The program takes ~ 20 minutes to run, so best to let it sit for a bit.  Ironically (and I discovered this after the exercise was complete), the problem could have been 90% correctly solved in ~10 minutes of work + ~1 minute of execution time using a simple regex filter.  Who knew…
+**NOTE:**  The program takes ~ 20 - 25 minutes to run, so best to let it sit for a bit.  Ironically (and I discovered this after the exercise was complete), the problem could have been 90% correctly solved in ~10 minutes of work + ~1 minute of execution time using a simple regex filter.  Who knew…
 
